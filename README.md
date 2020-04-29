@@ -31,6 +31,22 @@ CSDN: https://blog.csdn.net/MSNH2012/article/details/105693120
   支持windows10和ubuntu1804+.
 - **6. 特殊说明**
  工程路径中不能带有空格！
+### 快捷键
+绘制矩形: D
+绘制多边形: G
+旋转图形: R
+新建工程: Ctrl+N
+打开工程: Ctrl+O
+保存工程: Ctrl+S
+另存为工程: Ctrl+Shift+S
+复制图形: Ctrl+C
+剪切图形: Ctrl+X
+粘贴图形: Ctrl+V
+移动图形: ←↑→↓
+上一张: Ctrl+Space
+下一张: Ctrl+Shift+Space
+适应窗口: Ctrl+F
+1:1显示: Ctrl+1
 ### 示例
 - **1.添加和导入标签**
 ![](img/add_label.png)
