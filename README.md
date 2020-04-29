@@ -32,21 +32,21 @@ CSDN: https://blog.csdn.net/MSNH2012/article/details/105693120
 - **6. 特殊说明**
  工程路径中不能带有空格！
 ### 快捷键
-绘制矩形: D</br>
-绘制多边形: G</br>
-旋转图形: R</br>
-新建工程: Ctrl+N</br>
-打开工程: Ctrl+O</br>
-保存工程: Ctrl+S</br>
-另存为工程: Ctrl+Shift+S</br>
-复制图形: Ctrl+C</br>
-剪切图形: Ctrl+X</br>
-粘贴图形: Ctrl+V</br>
-移动图形: ←↑→↓</br>
-上一张: Ctrl+Space</br>
-下一张: Ctrl+Shift+Space</br>
-适应窗口: Ctrl+F</br>
-1:1显示: Ctrl+1</br>
+- 绘制矩形: D</br>
+- 绘制多边形: G</br>
+- 旋转图形: R</br>
+- 新建工程: Ctrl+N</br>
+- 打开工程: Ctrl+O</br>
+- 保存工程: Ctrl+S</br>
+- 另存为工程: Ctrl+Shift+S</br>
+- 复制图形: Ctrl+C</br>
+- 剪切图形: Ctrl+X</br>
+- 粘贴图形: Ctrl+V</br>
+- 移动图形: ←↑→↓</br>
+- 上一张: Ctrl+Space</br>
+- 下一张: Ctrl+Shift+Space</br>
+- 适应窗口: Ctrl+F</br>
+- 1:1显示: Ctrl+1</br>
 ### 示例
 - **1.添加和导入标签**
 ![](img/add_label.png)
