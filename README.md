@@ -61,5 +61,5 @@ CSDN: https://blog.csdn.net/MSNH2012/article/details/105693120
 - **6.设置相关**
 ![](img/setting.png)
 - ### 下载地址
-链接：https://pan.baidu.com/s/1LN1uzbZXjWkgVesapw1EPA 
-提取码：z894
+链接：https://pan.baidu.com/s/1zYxs1lpmzxUSc7V3HuAJKw 
+提取码：q0r7
