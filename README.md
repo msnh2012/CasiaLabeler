@@ -66,17 +66,15 @@ CSDN: https://blog.csdn.net/MSNH2012/article/details/105693120
 ![](img/poly.png)
 - **5.直线标注**
 ![](img/line.png)
-- **6.直线标注**
-![](img/line.png)
-- **7.点标注**
+- **6.点标注**
 ![](img/points.png)
-- **8.曲线标注**
+- **7.曲线标注**
 ![](img/bezier.png)
-- **9.贝塞尔区域标注**
+- **8.贝塞尔区域标注**
 ![](img/bezierArea.png)
-- **10.视频操作**
+- **9.视频操作**
 ![](img/video.png)
-- **11.设置相关**
+- **10.设置相关**
 ![](img/setting.png)
 - ### 下载地址
 链接：https://pan.baidu.com/s/1zYxs1lpmzxUSc7V3HuAJKw 
