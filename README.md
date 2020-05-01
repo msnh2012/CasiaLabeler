@@ -33,7 +33,12 @@ CSDN: https://blog.csdn.net/MSNH2012/article/details/105693120
  工程路径中不能带有空格！
 ### 快捷键
 - 绘制矩形: D</br>
-- 绘制多边形: G</br>
+- 绘制多边形: p</br>
+- 绘制线段: L</br>
+- 绘制点: T</br>
+- 绘制贝塞尔曲线: B</br>
+- 绘制贝塞尔区域: Alt+B</br>
+- 插入点: Alt+T</br>
 - 旋转图形: R</br>
 - 新建工程: Ctrl+N</br>
 - 打开工程: Ctrl+O</br>
