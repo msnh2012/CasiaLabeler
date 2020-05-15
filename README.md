@@ -1,4 +1,4 @@
-# CASIA标注工具
+# CASIA标注工具 (可以watch这个仓库,更新后可第一时间知晓)
 ---
 ### 软件介绍
 CasiaLabeler是一款非常轻量的标注软件，支持win10和ubuntu18平台。主要适用于目标检测和实例分割等场景。可用于Faster RCNN, Mask RCNN, Yolo系列, SSD系列, Centernet系列等。
