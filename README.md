@@ -3,7 +3,11 @@
 ### 软件介绍
 CasiaLabeler是一款非常轻量的标注软件，支持win10和ubuntu18平台。主要适用于目标检测和实例分割等场景。可用于Faster RCNN, Mask RCNN, Yolo系列, SSD系列, Centernet系列等。
 ### 说明
-你可以免费使用本软件，但不可用于任何商业用途(©2020 Casia RLIS)，仅供学习科研使用。如有BUG，可以在issue里面进行评论，虽然我也不一定会立即修复BUG(**只有晚上才有时间啦~**），不过有时间的了还是会修复的。如果觉得好用，给在github里给个小星星呗，不给也OK啦。
+你可以免费使用本软件，但不可用于任何商业用途(©2020 Casia RLIS)，仅供学习科研使用。如有BUG，可以在issue里面进行评论，虽然我也不一定会立即修复BUG(**只有晚上才有时间啦~**），不过有时间的了还是会修复的。如果觉得好用，欢迎star。
+### 更新
+2020/06/08 21:00 </br>
+新增显示 **多边形标注**， **多边形标注**，**点标注**，**曲线标注**，**贝塞尔区域标注** 对应点的编号 Ctrl+H。
+
 ### 视频介绍
 B站: https://www.bilibili.com/video/BV1dA411b7F4/
 ### 加载不出图像，去CSDN.
@@ -57,7 +61,8 @@ CSDN: https://blog.csdn.net/MSNH2012/article/details/105693120
 - 下一张: Ctrl+Shift+Space</br>
 - 适应窗口: Ctrl+F</br>
 - 1:1显示: Ctrl+1</br>
-- 删除点: 右键
+- 删除点: 右键</br>
+- 显示序号: Ctrl+H
 ### 示例
 - **1.添加和导入标签**
 ![](img/add_label.png)
@@ -80,5 +85,5 @@ CSDN: https://blog.csdn.net/MSNH2012/article/details/105693120
 - **10.设置相关**
 ![](img/setting.png)
 - ### 下载地址
-链接：https://pan.baidu.com/s/1P7-blCtC14AY4GWP1cfVmg 
-提取码：lbok 
+链接：https://pan.baidu.com/s/1Y-XGOc2rZzDYZ10ezw-PWQ 
+提取码：0ohf 
