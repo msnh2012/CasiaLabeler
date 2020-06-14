@@ -1,12 +1,15 @@
 # CASIA标注工具 (可以watch这个仓库,更新后可第一时间知晓)
 ---
 ### 软件介绍
-CasiaLabeler是一款非常轻量的标注软件，支持win10和ubuntu18平台。主要适用于目标检测和实例分割等场景。可用于Faster RCNN, Mask RCNN, Yolo系列, SSD系列, Centernet系列等。
+CasiaLabeler是一款非常轻量的标注软件，支持win10、ubuntu18和mac10.13+平台。主要适用于目标检测和实例分割等场景。可用于Faster RCNN, Mask RCNN, Yolo系列, SSD系列, Centernet系列等。
 ### 说明
 你可以免费使用本软件，但不可用于任何商业用途(©2020 Casia RLIS)，仅供学习科研使用。如有BUG，可以在issue里面进行评论，虽然我也不一定会立即修复BUG(**只有晚上才有时间啦~**），不过有时间的了还是会修复的。如果觉得好用，欢迎star。
 ### 更新
 2020/06/08 21:00 </br>
 新增显示 **多边形标注**， **多边形标注**，**点标注**，**曲线标注**，**贝塞尔区域标注** 对应点的编号 Ctrl+H。
+
+2020/06/13 20:00 </br>
+新增mac版本, mac10.13+。
 
 ### 视频介绍
 B站: https://www.bilibili.com/video/BV1dA411b7F4/
@@ -37,7 +40,7 @@ CSDN: https://blog.csdn.net/MSNH2012/article/details/105693120
  符合该格式的标注文档，同样可导入本软件。</br>
  如果想要COCO，Labelme等支持的格式，用python转换一下就行啦~</br>
  - **6. 支持平台**
-  支持windows10和ubuntu1804+.
+  支持windows10、ubuntu1804+、Mac10.13+.
 - **7. 特殊说明**
  工程路径中不能带有空格！
 ### 快捷键
