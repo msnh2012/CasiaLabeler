@@ -88,4 +88,5 @@ CSDN: https://blog.csdn.net/MSNH2012/article/details/105693120
 - **10.设置相关**
 ![](img/setting.png)
 - ### 下载地址
-链接: https://pan.baidu.com/s/1Gjxx3-pbhC_UruJ0j5dLXQ  密码: p2ek
+链接：https://pan.baidu.com/s/1GeLV6UTFjYg4QhBHyFBXvA 
+提取码：n368
