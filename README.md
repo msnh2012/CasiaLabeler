@@ -88,5 +88,5 @@ CSDN: https://blog.csdn.net/MSNH2012/article/details/105693120
 - **10.设置相关**
 ![](img/setting.png)
 - ### 下载地址
-链接：https://pan.baidu.com/s/1AI5f5BYbboK0KYpHf7v4-A 
-提取码：19o1 
+链接: https://pan.baidu.com/s/1mCbCoJmDglikLUOa3wlBMQ?pwd=krck 
+提取码: krck 
